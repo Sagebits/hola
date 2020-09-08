@@ -9,10 +9,11 @@
 	<name>hola</name>
 	
 	<description>
-		Runtime scanning and initializing utilities for HK2 so you don't have to rely on hk2-locator/default files created by the inhabitant-generator.
+		Hola is a minimalist Java implementation of Multicast DNS Service Discovery (mDNS-SD).
+		This release is a fork of https://github.com/fflewddur/hola as it appears to be abandoned.
 	</description>
 	
-	<url>https://bitbucket.org/sagebits/hk2utilities</url>
+	<url>https://github.com/Sagebits/hola</url>
 
 	<licenses>
 		<license>
